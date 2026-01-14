@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
 
-  return <>Fred</>;
+  return <><div className='bg-blue-500  '>Freddie Lord C. Viernes</div></>;
 }
 
 export default App
